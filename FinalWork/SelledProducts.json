@@ -1,0 +1,74 @@
+{
+  "sells": [
+    {
+      "idSell": 1,
+      "idSeller": 3,
+      "idProduct": 1,
+      "countSelledProduct": 4,
+      "sellData": "19.04.2023"
+    },
+    {
+      "idSell": 2,
+      "idSeller": 1,
+      "idProduct": 1,
+      "countSelledProduct": 8,
+      "sellData": "20.04.2023"
+    },
+    {
+      "idSell": 3,
+      "idSeller": 1,
+      "idProduct": 3,
+      "countSelledProduct": 8,
+      "sellData": "20.04.2023"
+    },
+    {
+      "idSell": 4,
+      "idSeller": 2,
+      "idProduct": 3,
+      "countSelledProduct": 10,
+      "sellData": "21.04.2023"
+    },
+    {
+      "idSell": 5,
+      "idSeller": 2,
+      "idProduct": 2,
+      "countSelledProduct": 2,
+      "sellData": "21.04.2023"
+    },
+    {
+      "idSell": 6,
+      "idSeller": 3,
+      "idProduct": 1,
+      "countSelledProduct": 10,
+      "sellData": "21.04.2023"
+    },
+    {
+      "idSell": 7,
+      "idSeller": 3,
+      "idProduct": 4,
+      "countSelledProduct": 1,
+      "sellData": "22.04.2023"
+    },
+    {
+      "idSell": 8,
+      "idSeller": 1,
+      "idProduct": 2,
+      "countSelledProduct": 13,
+      "sellData": "23.04.2023"
+    },
+    {
+      "idSell": 9,
+      "idSeller": 2,
+      "idProduct": 4,
+      "countSelledProduct": 5,
+      "sellData": "23.04.2023"
+    },
+    {
+      "idSell": 10,
+      "idSeller": 1,
+      "idProduct": 3,
+      "countSelledProduct": 1,
+      "sellData": "24.04.2023"
+    }
+  ]
+}

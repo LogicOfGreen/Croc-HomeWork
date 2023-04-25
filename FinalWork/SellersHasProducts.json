@@ -1,0 +1,52 @@
+{
+  "sellerHasProduct": [
+    {
+      "idSeller": 1,
+      "idProduct": 1,
+      "countProduct": 8,
+      "priceProduct": 13
+    },
+    {
+      "idSeller": 1,
+      "idProduct": 2,
+      "countProduct": 13,
+      "priceProduct": 15
+    },
+    {
+      "idSeller": 1,
+      "idProduct": 3,
+      "countProduct": 9,
+      "priceProduct": 18
+    },
+    {
+      "idSeller": 2,
+      "idProduct": 2,
+      "countProduct": 4,
+      "priceProduct": 14
+    },
+    {
+      "idSeller": 2,
+      "idProduct": 3,
+      "countProduct": 12,
+      "priceProduct": 20
+    },
+    {
+      "idSeller": 2,
+      "idProduct": 4,
+      "countProduct": 6,
+      "priceProduct": 19
+    },
+    {
+      "idSeller": 3,
+      "idProduct": 1,
+      "countProduct": 14,
+      "priceProduct": 17
+    },
+    {
+      "idSeller": 3,
+      "idProduct": 4,
+      "countProduct": 2,
+      "priceProduct": 21
+    }
+  ]
+}

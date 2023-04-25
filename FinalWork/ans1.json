@@ -1,0 +1,17 @@
+[ {
+  "productName" : "Apple",
+  "sellerName" : " ",
+  "productPrise" : 13
+}, {
+  "productName" : "Banana",
+  "sellerName" : " ",
+  "productPrise" : 14
+}, {
+  "productName" : "Orange",
+  "sellerName" : " ",
+  "productPrise" : 18
+}, {
+  "productName" : "Cherry",
+  "sellerName" : " ",
+  "productPrise" : 19
+} ]

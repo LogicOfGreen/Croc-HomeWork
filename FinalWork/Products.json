@@ -1,0 +1,20 @@
+{
+  "listProduct": [
+    {
+      "idProduct": 1,
+      "title": "Apple"
+    },
+    {
+      "idProduct": 2,
+      "title": "Banana"
+    },
+    {
+      "idProduct": 3,
+      "title": "Orange"
+    },
+    {
+      "idProduct": 4,
+      "title": "Cherry"
+    }
+  ]
+}

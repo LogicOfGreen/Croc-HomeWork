@@ -1,0 +1,18 @@
+{"listSeller":[
+  {
+    "idSeller": 1,
+    "secondName": "Popov",
+    "firstName": "Petr"
+  },
+  {
+    "idSeller": 2,
+    "secondName": "Ivanov",
+    "firstName": "Ivan"
+  },
+  {
+    "idSeller": 3,
+    "secondName": "Zaycev",
+    "firstName": "Artem"
+  }
+]
+}
