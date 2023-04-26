@@ -64,7 +64,7 @@ public class Final {
 
         List<First> answer = new ArrayList<>();
         for(int i=1;i<arP.length;i++){
-            First ans = new First(arPr[i],arSN[i],arP[i]);
+            First ans = new First(arPr[i],arS[i],arP[i]);
             answer.add(ans);
         }
 
