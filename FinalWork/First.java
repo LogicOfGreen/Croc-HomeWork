@@ -1,9 +1,9 @@
 public class First {
     private String productName;
-    private String sellerName;
+    private int sellerName;
     private int productPrise;
 
-    public First(String pN, String sN, int pp){
+    public First(String pN, int sN, int pp){
         this.productName=pN;
         this.productPrise=pp;
         this.sellerName=sN;
@@ -17,7 +17,7 @@ public class First {
         return productName;
     }
 
-    public String getSellerName() {
+    public int getSellerName() {
         return sellerName;
     }
 }
