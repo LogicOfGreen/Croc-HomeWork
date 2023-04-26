@@ -16,8 +16,8 @@ import java.nio.file.Paths;
 *
 *input - json and output - json
 *Final-класс где самое решение, First и Second - классы для создания листов ответов,
-*Producr,Seller,SellerHasProduct,Sells- классы в которые мы переносим объекты из json(POJO)
-*Эти же классы с припиской Com - классы обёртки для массивов объектов JSON
+*Producr,Seller,SellerHasProduct,Sells- классы в которые мы переносим объекты из json(POJO) , имеют стандартные конструкторы и геттеры
+*Эти же классы с припиской Com - классы обёртки для массивов объектов JSON- имеют геттеры и сеттеры
 *
 */
 public class Final {
